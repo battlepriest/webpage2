@@ -1,0 +1,45 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+p {
+  text-align: center;
+  margin: 7%;
+  letter-spacing: 1px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+h2 {
+color : grey;
+text-align: center;
+}
+.metniortala{
+  position: absolute;
+  right: 380px;
+  width: 500px;
+  background-color: #b0e0e6;
+  height: 380px;
+  text-align: center
+  
+
+}
