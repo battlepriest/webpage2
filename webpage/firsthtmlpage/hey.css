@@ -24,7 +24,7 @@ li a:hover {
 }
 p {
   text-align: center;
-  margin: 7%;
+  margin: 4%;
   letter-spacing: 1px;
   font-family: 'Times New Roman', Times, serif;
 
@@ -41,5 +41,16 @@ text-align: center;
   height: 380px;
   text-align: center
   
+
+}
+.k{
+
+  margin-left:auto;
+  margin-right:auto;
+
+  width:70%;
+height: 60%;
+  background-color:#b0e0e6;
+  margin-bottom: ;
 
 }
