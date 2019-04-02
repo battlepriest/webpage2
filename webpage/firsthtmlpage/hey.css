@@ -51,6 +51,19 @@ text-align: center;
   width:70%;
 height: 60%;
   background-color:#b0e0e6;
-  margin-bottom: ;
+  margin-bottom: 
+
+}
+
+
+.bil {
+
+  position: absolute;
+  right: 390px;
+  width: 490px;
+  background-color: #d5d6d2;
+  height: 380px;
+  text-align: center;
+  color: black;
 
 }
