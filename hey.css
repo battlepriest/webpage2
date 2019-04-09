@@ -1,0 +1,106 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+p {
+  text-align: center;
+  margin: 4%;
+  letter-spacing: 1px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+h2 {
+color : grey;
+text-align: center;
+}
+.metniortala{
+  position: absolute;
+  right: 380px;
+  width: 500px;
+  background-color: #b0e0e6;
+  height: 380px;
+  text-align: center
+  
+
+}
+.k{
+
+  margin-left:auto;
+  margin-right:auto;
+
+  width:70%;
+height: 60%;
+  background-color: #d5d6d2;
+
+
+}
+
+
+.bil {
+
+  margin-left: auto;
+  margin-right: auto;
+  right: 390px;
+  width: 490px;
+  background-color: #d5d6d2;
+  height: 380px;
+  text-align: center;
+  color: black;
+
+}
+.fa {
+  
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin:50px 290px;
+  border-radius: 500px;
+}
+
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+
+
+.fa-facebook {
+  background: blue;
+  color: white;
+}
+.fa-github {
+
+  
+  background:black;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+
+}
