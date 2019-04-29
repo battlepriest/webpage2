@@ -18,7 +18,7 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+
 li a:hover {
   background-color: #111;
 }
@@ -58,12 +58,23 @@ height: 60%;
 
 .bil {
 
-  position: absolute;
-  right: 390px;
-  width: 490px;
-  background-color: #d5d6d2;
-  height: 380px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  background-color: grey;
+}
+.fa {
+  padding: 208px;
+  font-size: 30px;
+  width: 50px;
   text-align: center;
-  color: black;
-
+  text-decoration: none;
+}
+h3 {
+  position: relative;
+left:50px;
+  }
+.mrt {
+  position: relative;
+  left: 50px ;
 }
