@@ -18,7 +18,7 @@ li a {
   text-decoration: none;
 }
 
-
+/* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
 }
@@ -50,8 +50,8 @@ text-align: center;
 
   width:70%;
 height: 60%;
-  background-color:#b0e0e6;
-  margin-bottom: 
+  background-color: #d5d6d2;
+
 
 }
 
@@ -60,21 +60,83 @@ height: 60%;
 
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
-  background-color: grey;
+  right: 390px;
+  width: 490px;
+  background-color: #d5d6d2;
+  height: 380px;
+  text-align: center;
+  color: black;
+
 }
 .fa {
-  padding: 208px;
-  font-size: 30px;
-  width: 50px;
+  
+  padding: 20px;
+  font-size: 50px;
+  width: 500px;
   text-align: center;
   text-decoration: none;
+  margin:70px 680px;
+  border-radius: 500px;
 }
+
+
+
+.fa:hover {
+  opacity: 0,7;
+}
+
+
+
+
+.fa-facebook {
+  background: blue;
+  color: white;
+}
+.fa-github {
+
+  
+  background:black;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+
+}
+
+
+
+* {box-sizing:border-box}
+
+.container {
+  width: 100%; 
+  background-color: black;
+}
+
+.skills {
+  text-align: right; 
+  padding: 13px; 
+  color: white; 
+}
+
+
+.html {width: 70%; background-color: #4CAF50;} 
+.css {width: 65%; background-color: #2196F3;} 
+.js {width: 10%; background-color: #f44336;} 
+.php {width: 15%; background-color: #808080;} 
+
 h3 {
   position: relative;
-left:50px;
-  }
+  left: 35px;
+  
+}
 .mrt {
   position: relative;
-  left: 50px ;
+  left: 35px;
 }
+h2 {
+  position: relative;
+  top: 20px;
+}
+
